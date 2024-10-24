@@ -6,4 +6,4 @@ hide: true
 menu: nav/home.html
 ---
 
-<a href="{{site.baseurl}}/"></a>
+<a href="{{site.baseurl}}/rateandrelate/">here</a>
