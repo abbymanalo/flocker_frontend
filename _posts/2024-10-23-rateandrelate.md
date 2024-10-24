@@ -13,6 +13,6 @@ permalink: /rateandrelate/
   
 </style>
 <h1> Update the Flock </h1>
-<div style="text-align: center;"> 
-    <img src="{{site.baseurl}}/images/about/CSP_LOGO-removebg-preview.png">
+<div style="text-align: center;">
+    <img src="{{site.baseurl}}/images/about/CSP_LOGO-removebg-preview.png" style="display: block; margin: 0 auto;" alt="Logo">
 </div>
